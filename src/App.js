@@ -5,6 +5,14 @@ import Cart from './Components/Cards/Cart/Cart';
 
 function App() {
   const [items, setItems] = useState([]);
+  const [cart, setCart] = useState([]);
+
+  const addToCard = (Product) => {
+    const newCart = [...cart, Product]
+    console.log(newCart);
+    setCart(newCart)
+  }
+
   useEffect(() => {
     fetch("bikes.JSON")
       .then(res => res.json())
@@ -18,6 +26,7 @@ function App() {
           {
             items.map(item => (
               <Cards
+                addToCard={addToCard}
                 key={item.imdbID}
                 data={item}
               >
@@ -30,7 +39,10 @@ function App() {
 
       <div className="col-md-3">
 
-
+        <Cart
+          cart={cart}
+        >
+        </Cart>
       </div>
     </div>
   );

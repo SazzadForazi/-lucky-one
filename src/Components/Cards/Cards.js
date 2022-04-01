@@ -14,7 +14,7 @@ const Cards = (props) => {
                     <p className="card-text">Budget: {Budget}</p>
                     <button
                         onClick={() => props.addToCard(props.data)}
-                        className="btn btn-primary">Added</button>
+                        className="btn btn-secondary">Add Product <i class="fa">&#xf07a;</i></button>
                 </div>
             </div>
         </div>

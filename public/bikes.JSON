@@ -1,0 +1,65 @@
+[
+    {
+        "imdbID": "tt0096895",
+        "Title": "Royal Enfield Bullet 350",
+        "Rating": "9.00",
+        "Budget": "₹ 1,27,094",
+        "Poster": "https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/bullet/bullet-350/colours/studio-shots/new/bullet-silver/front-view.png"
+    },
+    {
+        "imdbID": "tt0468569",
+        "Title": "Honda CB Shine",
+        "Rating": "9.2",
+        "Budget": "₹ 72,787",
+        "Poster": "https://i.ytimg.com/vi/zI0tvbun490/maxresdefault.jpg"
+    },
+    {
+        "imdbID": "tt2975590",
+        "Title": "Honda Activa 6G",
+        "Rating": "9.8",
+        "Budget": "₹ 69,645",
+        "Poster": "https://bd.gaadicdn.com/processedimages/honda/activa-6g/source/activa-6g61793a38d0a26.jpg"
+    },
+    {
+        "imdbID": "tt1345836",
+        "Title": "Hero Splendor Plus",
+        "Rating": "9.4",
+        "Budget": "₹ 61,785",
+        "Poster": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/50829/hero-splendor-plus-left-side-view3.jpeg"
+    },
+    {
+        "imdbID": "tt0372784",
+        "Title": "Bajaj Pulsar 150",
+        "Rating": "9.5",
+        "Budget": "₹ 95,872",
+        "Poster": "https://ic1.maxabout.us/autos/tw_india//B/2021/4/bajaj-pulsar-150-dagger-edge-sapphire-blue.jpg"
+    },
+    {
+        "imdbID": "tt4116284",
+        "Title": "Bajaj Pulsar 125",
+        "Rating": "9.1",
+        "Budget": "₹ 72,122",
+        "Poster": "https://images.news18.com/ibnlive/uploads/2020/06/1592557615_bajaj-pulsar-125-split-seat-variant.jpg"
+    },
+    {
+        "imdbID": "tt0112462",
+        "Title": "Honda Dio",
+        "Rating": "8.9",
+        "Budget": "₹ 1,80,374",
+        "Poster": "https://ic1.maxabout.us/autos/tw_india//N/2020/5/new-honda-dio-110.jpg"
+    },
+    {
+        "imdbID": "tt0118688",
+        "Title": "Royal Enfield Classic 350",
+        "Rating": "9.5",
+        "Budget": "₹ 1,84,374",
+        "Poster": "https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/classic-350/colors/studio-shots/dual-channel/dark-stealth-black/01-dark-stealth-black.png"
+    },
+    {
+        "imdbID": "tt0103776",
+        "Title": "Bajaj Avenger Cruise 220",
+        "Rating": "9.2",
+        "Budget": "₹ 1,22,630",
+        "Poster": "https://imgd.aeplcdn.com/1200x900/bw/models/bajaj-avenger-cruise-220-bs-vi20200211171517.jpg"
+    }
+]
